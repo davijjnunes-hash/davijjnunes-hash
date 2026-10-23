@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="30" viewBox="0 0 82 30" role="img" aria-label="FastAPI">
+  <title>FastAPI</title>
+  <rect x=".5" y=".5" width="81" height="29" rx="6" fill="#111E2D" stroke="#2D4157"/>
+  <rect x="11" y="11" width="8" height="8" rx="2" fill="#65E8C0"/>
+  <text x="27" y="19" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#E6EDF3">FastAPI</text>
+</svg>
