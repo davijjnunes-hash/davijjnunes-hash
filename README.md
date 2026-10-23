@@ -20,7 +20,7 @@ Olá! Sou **Davi Nunes**, desenvolvedor com foco em **backend, machine learning 
 
 Meu interesse está na conexão entre engenharia de software e dados: construir APIs, integrar serviços e incorporar inteligência às aplicações. Valorizo código claro, fundamentos sólidos e soluções que façam sentido na prática.
 
-- **Backend** — APIs, arquitetura, autenticação e integração entre sistemas.
+- **Backend** — APIs com Python (FastAPI) e Node.js (Express + TypeScript), arquitetura, autenticação e integração entre sistemas.
 - **Dados** — SQL, modelagem, preparação e análise de dados.
 - **Machine learning & IA** — fundamentos, experimentação, avaliação de modelos e integração com aplicações.
 
